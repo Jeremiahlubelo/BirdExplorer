@@ -5,15 +5,16 @@ h1 {
     padding: 20px; 
     /* width: 200px; */
     height: 150px;
-    text-align: center 
+    text-align: center;
 
   }
   body  {
       background: #f3e96b;
       /* background-color:style="background-color:hsla(0,100%,50%,0.5);"; */
       font-size: 25pt;
+      text-align: center;
+      vertical-align: middle;
     }
-        
 
   h2{
   position: relative;

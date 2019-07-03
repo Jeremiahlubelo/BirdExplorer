@@ -30,6 +30,11 @@ h2 {
     z-index: -1;
 }
 
+p.copyright {
+    font-size: 16px;
+    text-align: right;
+}
+
 footer {
     font-size: 20px;
 }
